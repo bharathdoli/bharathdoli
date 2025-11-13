@@ -102,6 +102,6 @@ CVR College of Engineering (2022 – 2026)
 
 ## 🌀 Visitor Counter  
 <p align="center">
-  <img src="https://profile-counter.glitch.me/{bharathdoli}/count.svg" />
+  <img src="https://komarev.com/ghpvc/?username=bharathdoli&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
