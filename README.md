@@ -1,6 +1,4 @@
-<!-- README.md for Doli Bharath (GitHub profile) -->
-<!-- Generated from user's resume (see file used for content) -->
-<!-- Source: final resume.pdf. Citation: :contentReference[oaicite:1]{index=1} -->
+
 
 <h1 align="center">
   Hi 👋, I'm Doli Bharath
